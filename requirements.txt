@@ -1,0 +1,5 @@
+seqeval
+tqdm
+pot
+mindspore==1.10.0
+transformers
